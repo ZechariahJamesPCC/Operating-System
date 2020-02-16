@@ -1,6 +1,5 @@
 (Processor Manager)
-
-The processor manager is the (CPU) that executes what's being accessed and processed on the operating system.
+The processor manager is the CPU that executes what's being accessed and processed on the operating system.
 
 For exmaple the user starts a text document or something like google so the processor manager job is to execute that task opening it.
 
@@ -12,3 +11,11 @@ The file manager is what tells you what's on hard drive and what each file exact
 It's role as a function is that if something is needed to be accessed or if a full file is need then the file manager tells you were it is.
 
 The file manager also tells if the file you are accessing a read or writing file.
+
+(User Interface)
+The user interface is what the person sees such as like windows were you see icons or a screen were you have to type commands in.
+
+It looks over the many different functions that go on in the operating system like if you went into task manager.
+
+What the main point of the user interface is the user causes the many different functions which happen in the operating system.
+
