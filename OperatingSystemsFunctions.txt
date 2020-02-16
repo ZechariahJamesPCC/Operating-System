@@ -1,0 +1,3 @@
+The processor manager is the (CPU) that executes what's being accessed and processed on the operating system.
+For exmaple the user starts a text document or something like google so the processor manager job is to execute that task opening it.
+It commucates with the other functions managers that it needs something being done for a certain application on the system.
