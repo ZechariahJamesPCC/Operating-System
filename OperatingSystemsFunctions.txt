@@ -1,3 +1,14 @@
+(Processor Manager)
+
 The processor manager is the (CPU) that executes what's being accessed and processed on the operating system.
+
 For exmaple the user starts a text document or something like google so the processor manager job is to execute that task opening it.
+
 It commucates with the other functions managers that it needs something being done for a certain application on the system.
+
+(File Manager)
+The file manager is what tells you what's on hard drive and what each file exactly is.
+
+It's role as a function is that if something is needed to be accessed or if a full file is need then the file manager tells you were it is.
+
+The file manager also tells if the file you are accessing a read or writing file.
